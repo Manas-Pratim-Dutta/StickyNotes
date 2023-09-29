@@ -21,3 +21,4 @@ To edit the content of a note, simply click on it, and you can start typing.
 To delete a note, double-click on it.
 
 The application automatically saves your notes locally, so you can continue from where you left off next time you open it.
+# Check out a live demo of the Sticky Notes Web App https://beingsticky.netlify.app/
